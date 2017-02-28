@@ -3,6 +3,10 @@ target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
 
 target\m2e-wtp\web-resources\META-INF\maven\com.tumussa\pruebajspmarina3\pom.properties
 
+target\classes\com\tumussa\pruebajspmarina3\databases\DataBaseGenerica.class
+target\classes\com\tumussa\pruebajspmarina3\databases\DataBaseReservas.class
+C:\Users\JUAN DIEGO\Desktop\WorkTalentum\pruebasjspmarina3\target\m2e-wtp\web-resources\META-INF\maven\com.tumussa\pruebajspmarina3\pom.properties
+
 # Created by https://www.gitignore.io/api/eclipse,maven
 
 ### Eclipse ###
