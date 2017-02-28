@@ -9,7 +9,6 @@
 </head>
 <body>
 	<h1>Venta el tunel</h1>
-	<span>Hola soy Marina</span>
 	<a href="reservas">Hacer reserva</a>
 	
 </body>
