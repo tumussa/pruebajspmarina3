@@ -22,7 +22,7 @@
     <div id="header">
         <h1>VenTa El Túnel</h1>
     </div> 
-    <form action="r" method="get">   
+    <form action="addReserva" method="get">   
         <div class="row" align="center" id="form">
             <div class="col-md-5">
                 <div class="inputs-form">
